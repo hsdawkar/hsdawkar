@@ -5,7 +5,7 @@ public class LocGlob {
 	
 	void method()
 	{
-		String name = "harshad";
+		String name = "harshad.dawkar";
 		
 		if(name1==name)
 		{
